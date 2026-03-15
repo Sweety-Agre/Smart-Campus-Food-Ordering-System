@@ -1,2 +1,2 @@
-# Smart-Campus-Food-Ordering-System
+# Smart_Campus_Food_Ordering_System
 Project
